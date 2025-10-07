@@ -2,7 +2,7 @@
 # Battle of the Tone 🎵
 ### **Make Your Voice Heard!**
 
-![Battle of the Tone Banner](https://via.placeholder.com/1200x400?text=Battle+of+the+Tone+-+High+School+Music+Competition)
+
 
 ## 🎸 About the Competition
 **Battle of the Tone** is the premier high school music competition that brings together the most talented young musicians across the region. Whether you're a solo artist or part of a band, this is your platform to showcase your talent and compete for amazing prizes!
